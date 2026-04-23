@@ -1,5 +1,5 @@
 {
-    "name": "r-martins/Mautic-OneSignal-web16",
+    "name": "r-martins/mautic-plugin-onesignal-web16",
     "description": "OneSignal Web SDK v16: use include_subscription_ids for web, and mark campaign push as failed when OneSignal returns errors or an empty id in JSON (including HTTP 200).",
     "type": "mautic-plugin",
     "license": "GPL-3.0-or-later",
